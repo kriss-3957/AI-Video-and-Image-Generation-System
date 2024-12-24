@@ -133,7 +133,7 @@ huggingface_hub==0.25.0
 ### 2. Unzip the downloaded file:
 
 ```
-!unzip project -d /content/project
+!unzip project -d /content
 ```
 
 
@@ -141,9 +141,6 @@ huggingface_hub==0.25.0
 ```
 !cd /content/project
 ```
-
-
-
 
 ## 4. Set the ngrok Authentication Token:
 
