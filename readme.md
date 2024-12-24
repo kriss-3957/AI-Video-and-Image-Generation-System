@@ -125,10 +125,9 @@ huggingface_hub==0.25.0
 ## Installation
 
 1. Download the project.zip file from the repository:
-git clone <repository-url> cd ai-generation-system
-
+2. 
 ```
-!wget -O project.zip https://github.com/kriss-3957/my_test/raw/refs/heads/main/project.zip
+!wget -O project.zip https://github.com/kriss-3957/AI-Video-and-Image-Generation-System/blob/main/project.zip
 ```
 
 
