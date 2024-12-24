@@ -126,7 +126,7 @@ huggingface_hub==0.25.0
 
 1. Download the project.zip file from the repository:
 ```
-!wget -O project.zip https://github.com/kriss-3957/AI-Video-and-Image-Generation-System/blob/main/project.zip
+!wget -O project.zip https://github.com/kriss-3957/AI-Video-and-Image-Generation-System/raw/refs/heads/main/project.zip
 ```
 
 
