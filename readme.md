@@ -206,8 +206,8 @@ We could also directly run the |
 
 
 ## Video Walkthrough
+[**Click here**]([https://drive.google.com/file/d/14AFFNwdQmz8thv0aDS7_9arGBZmppKh1/view?usp=sharing]) to watch a video explaining the setup and functionality of the system.) to watch a video explaining the setup and functionality of the system.
 
-[**Click here**]([https://drive.google.com/file/d/14AFFNwdQmz8thv0aDS7_9arGBZmppKh1/view?usp=sharing]) to watch a video explaining the setup and functionality of the system.
 
 ---
 
