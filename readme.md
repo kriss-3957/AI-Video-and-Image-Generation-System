@@ -125,7 +125,6 @@ huggingface_hub==0.25.0
 ## Installation
 
 1. Download the project.zip file from the repository:
-2. 
 ```
 !wget -O project.zip https://github.com/kriss-3957/AI-Video-and-Image-Generation-System/blob/main/project.zip
 ```
@@ -203,7 +202,8 @@ Step 3:Notifications generated
    - 5 images stored as `image_1.png`, `image_2.png`, ..., `image_5.png`.
 4. **View Content**: Access generated content on the home page.
 
-We could also directly run the setup_colab.ipynb notebook in colab with a GPU runtime, to launch the flask app.
+We could also directly run the |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kriss-3957/AI-Video-and-Image-Generation-System/blob/main/quickstart_colab.ipynb) | quickstart_colab.ipynb | notebook in colab with a GPU runtime, to launch the flask app.
 
 ---
 
